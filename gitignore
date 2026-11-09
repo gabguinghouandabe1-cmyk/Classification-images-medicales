@@ -1,0 +1,16 @@
+# Fichiers à ne pas envoyer sur GitHub
+
+# Fichiers temporaires créés automatiquement par Python
+__pycache__/
+*.pyc
+
+# Dossiers d'images (lourds, et à ne pas publier)
+dataset/
+dataset_reel/
+chest_xray/
+
+# Résultats exportés par l'option --json
+*.json
+
+# Environnement virtuel Python
+.venv/
