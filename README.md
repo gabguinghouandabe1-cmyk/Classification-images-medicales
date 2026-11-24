@@ -90,6 +90,18 @@ Limites : découpage par image et non par patient, basse résolution, une seule 
 - `exemples_normales.png`, `exemples_pneumonies.png` : exemples de radiographies utilisées dans ce README
 - `LICENSE` : licence du code (MIT)
 
+## Licence
+
+Code publié sous licence MIT (voir le fichier `LICENSE`). La traduction française ci-dessous est donnée à titre indicatif : **la version anglaise du fichier `LICENSE` fait foi.**
+
+> **Licence MIT** — Copyright (c) 2026 GABGUING HOUANDABE
+>
+> Il est accordé gratuitement à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le « Logiciel ») le droit d'utiliser le Logiciel sans restriction, y compris, sans limitation, les droits d'utiliser, copier, modifier, fusionner, publier, distribuer, concéder en sous-licence et/ou vendre des copies du Logiciel, et de permettre aux personnes à qui le Logiciel est fourni de le faire, sous réserve des conditions suivantes :
+>
+> L'avis de droit d'auteur ci-dessus et le présent avis d'autorisation doivent être inclus dans toutes les copies ou parties substantielles du Logiciel.
+>
+> LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS LES AUTEURS OU TITULAIRES DES DROITS D'AUTEUR NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DE TOUT DOMMAGE OU DE TOUTE AUTRE RESPONSABILITÉ, QUE CE SOIT DANS LE CADRE D'UN CONTRAT, D'UN DÉLIT OU AUTREMENT, DÉCOULANT DU LOGICIEL OU DE SON UTILISATION OU D'AUTRES OPÉRATIONS DANS LE LOGICIEL.
+
 ## Références
 
 - Kermany, D. S. et al. (2018). Identifying medical diagnoses and treatable diseases by image-based deep learning. *Cell*, 172(5).
