@@ -15,12 +15,14 @@ Pour chaque méthode, le programme affiche l'exactitude, la précision, le rappe
 > **Avertissement** : projet pédagogique (Master MIB, Université de Dschang). Ce programme n'est ni validé
 > ni certifié et ne doit pas servir à établir un diagnostic.
 
+**Rapport associé** : *Classification d'images médicales par apprentissage automatique : conception d'un programme Python et comparaison de plusieurs méthodes* — GABGUING HOUANDABE, Master Pro MIB, Université de Dschang, octobre 2026.
+
 ## Exemples d'images
 
 Radiographies du jeu PneumoniaMNIST (CC BY 4.0).
 
-![Exemples normal](exemples_normal.png)
-![Exemples pneumonie](exemples_pneumonie.png)
+![Exemples normal](exemples_normales.png)
+![Exemples pneumonie](exemples_pneumonies.png)
 
 ## Installation
 
@@ -84,6 +86,9 @@ Limites : découpage par image et non par patient, basse résolution, une seule 
 
 - `classification_images_medicales.py` : le programme principal
 - `telecharger_dataset_reel.py` : téléchargement des images (PneumoniaMNIST)
+- `requirements.txt` : bibliothèques Python nécessaires
+- `exemples_normales.png`, `exemples_pneumonies.png` : exemples de radiographies utilisées dans ce README
+- `LICENSE` : licence du code (MIT)
 
 ## Références
 
