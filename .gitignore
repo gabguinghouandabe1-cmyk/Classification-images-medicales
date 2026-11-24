@@ -1,0 +1,34 @@
+# Fichiers à ne pas envoyer sur GitHub
+
+# Fichiers temporaires créés automatiquement par Python
+__pycache__/
+*.pyc
+
+# Dossiers d'images (lourds, et à ne pas publier)
+dataset/
+dataset_reel/
+chest_xray/
+
+# Données téléchargées par medmnist
+*.npz
+
+# Résultats exportés par l'option --json
+*.json
+
+# Modèles entraînés (lourds)
+*.pth
+*.pt
+
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Fichiers temporaires de Windows et de Word
+Thumbs.db
+desktop.ini
+~$*
+
+# Réglages des éditeurs de code
+.vscode/
+.idea/
+.ipynb_checkpoints/
